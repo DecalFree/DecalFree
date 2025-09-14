@@ -1,7 +1,7 @@
 
 ## Hi, I'm DecalFree!
 
-I am a self-taught programmer with ~5 years of experience.
+I'm a self-taught programmer with ~5 years of experience.
 
 **Tech Stack:**
 

@@ -18,6 +18,6 @@ I'm a self-taught programmer with ~5 years of experience.
 
 **Statistics:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decalfree&layout=compact&theme=dark&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decalfree&layout=compact&theme=dark&langs_count=15)
 
 Some personal repositories have been migrated to [Codeberg](https://codeberg.org/DecalFree) and now visible to everyone.

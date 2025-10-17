@@ -1,4 +1,3 @@
-
 ## Hi, I'm DecalFree!
 
 I'm a self-taught programmer with ~5 years of experience.

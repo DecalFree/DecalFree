@@ -21,4 +21,4 @@ I'm a self-taught programmer with ~5 years of experience.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=decalfree&layout=compact&theme=dark&langs_count=15)
 
-My more "personal" projects have been migrated to [Codeberg](https://codeberg.org/DecalFree), and now made public.
+My more "personal" projects have been migrated to [Codeberg](https://codeberg.org/DecalFree) and now made public.
